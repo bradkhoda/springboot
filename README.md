@@ -1,9 +1,6 @@
 # springboothelloworld #
 This repository features code from a personal fun project that includes a Springboot API builder base, that is hosted on GCP.
 
-### API base IP ###
-http://34.126.202.193 (__NOT SECURE__)
-
 ### API Functions ###
 * __Hello World__   : /hello?name={Insert Name}                --> Returns "Hello {Name}!"
 * __Now__           : /now                                     --> Returns the Date+Time currently, on GMT
